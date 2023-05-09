@@ -20,7 +20,7 @@ public class MyDataContext : DbContext
     {
         if (!options.IsConfigured)
         {
-            options.UseNpgsql("Server=localhost;Port=5432;Database=testNET;User Id=postgres;Password=Mickey246Zac;");
+            options.UseNpgsql("Server=localhost;Port=5432;Database=testNET;User Id=postgres;Password=password;");
         }
     }*/
 }
