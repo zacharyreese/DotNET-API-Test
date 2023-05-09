@@ -33,7 +33,9 @@ public class BookController : ControllerBase
     [Route("author/{author}")]
     public IEnumerable<Book>? GetBookByAuthor(String author)
     {
-        return _context.Book.Where(b => b.author.ToLower().Contains(author.ToLower())).ToArray();
+        return _context.Book.
+            Where(b => b.author.ToLower().Contains(author.ToLower()))
+            .ToArray();
     }
 
     // [HttpGet(Name = "GetBook")]
