@@ -7,9 +7,10 @@ namespace TestAPI.Models;
 public class Book
 {
     [Key]
-    public int id { get; set; }
+    public int Id { get; set; }
     
-    public string name { get; set; }
-    public string author { get; set; }
-    public decimal price { get; set; }
+    public string? Name { get; set; }
+    public string? Author { get; set; }
+    public decimal Price { get; set; }
+    public int? NumberOfChapters { get; set; }
 }

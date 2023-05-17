@@ -7,8 +7,10 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="Marques.EFCorev6.0.SnakeCase" Version="6.0.4" />
         <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
         <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0-preview.3.23174.2" />
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
         <PackageReference Include="Npgsql" Version="8.0.0-preview.3" />
         <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.0-preview.3" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />

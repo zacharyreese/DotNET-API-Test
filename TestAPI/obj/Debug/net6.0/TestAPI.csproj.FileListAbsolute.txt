@@ -39,3 +39,5 @@ C:\Users\Zac\Documents\Coding\NET\TestAPI\TestAPI\bin\Debug\net6.0\Microsoft.Ext
 C:\Users\Zac\Documents\Coding\NET\TestAPI\TestAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Zac\Documents\Coding\NET\TestAPI\TestAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\Zac\Documents\Coding\NET\TestAPI\TestAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Zac\Documents\Coding\NET\TestAPI\TestAPI\bin\Debug\net6.0\Marques.EFCorev6.0.SnakeCase.dll
+C:\Users\Zac\Documents\Coding\NET\TestAPI\TestAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
